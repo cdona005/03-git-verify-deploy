@@ -9,4 +9,5 @@ Answer it in two or three sentences after the live page is verified, then commit
 What check did you run on the live page, and what would have made that check fail?
 A check that could not have failed is not a check.
 
-<your answer here>
+I started by verifying the repo exists and has the correct files and branches, then checked the URL was correct, then checked the CSS to ensure that the styles loaded
+
